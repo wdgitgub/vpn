@@ -1,3 +1,7 @@
+
+分享给别人的VPN分享页面
+
+
 -   Android安卓手机，iphone苹果手机，电脑使用教程  
     
     https://jianzhu.fanshuai.eu.org/#/VPN
@@ -25,7 +29,7 @@
         -   把下面这些填进去：  
             
             -   别名：  
-                -   1  
+                -   
                     
             
             -   地址：  
@@ -37,7 +41,7 @@
                     
             
             -   用户ID:  
-                -   f9fa4886-23dc-4e2b-9b78-23b8a3324236
+                -   548ed45a-5538-470d-9666-14784d18031b
                     
             
             -   流控（空着不填）:  
@@ -56,8 +60,8 @@
                 -     
                     
             
-            -   path（ws path/h2 path）/QUIC 加密密钥/kcp seed:  
-                -   /path  
+            -   路径（ws path/h2 path）/QUIC 加密密钥/kcp seed:  
+                -   /ray
                     
             
             -   底层传输安全（tls）:  
@@ -186,11 +190,11 @@
                             
                     
                     -   端口：  
-                        -   8443  
+                        -   443  
                             
                     
                     -   UUID：  
-                        -   f9fa4886-23dc-4e2b-9b78-23b8a3324236
+                        -   548ed45a-5538-470d-9666-14784d18031b
                             
                     
                     -   TLS：  
@@ -217,7 +221,39 @@
                 
                 -   就可以使用了  
                     
--   电脑使用方法说明书  
+-   电脑使用方法说明书第一种方法
+    - 1先下载V2RAY软件 
+    
+https://github.com/v2fly/v2ray-core/releases/download/v4.31.0/v2ray-windows-64.zip
+
+打开填进去
+
+
+类型：  
+                        -   VLESS  
+                            
+                    
+                    -   地址：  
+                        -   fsfsfs.eu.org
+                            
+                    
+                    -   端口：  
+                        -   443  
+                            
+                    
+                    -   UUID：  
+                        -   548ed45a-5538-470d-9666-14784d18031b
+                            
+                    
+                    -   TLS：  
+                        -   打开  
+                        
+                        
+
+
+
+
+- 电脑使用方法说明书第二种方法
     
     -   1先下载QV2RAY软件  
         -   [qv2ray-2.6.3-win64.exe](https://github.com/Qv2ray/Qv2ray/releases/download/v2.6.3/qv2ray-2.6.3-win64.exe)  
